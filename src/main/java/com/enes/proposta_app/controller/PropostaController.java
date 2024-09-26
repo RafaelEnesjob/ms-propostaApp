@@ -4,7 +4,6 @@ import com.enes.proposta_app.dto.request.PropostaRequestDto;
 import com.enes.proposta_app.dto.response.PropostaResponseDto;
 import com.enes.proposta_app.service.PropostaService;
 import lombok.AllArgsConstructor;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
